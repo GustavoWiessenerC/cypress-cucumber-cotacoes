@@ -2,7 +2,6 @@
     "baseUrl": "https://sampleapp.tricentis.com/101",
     "defaultCommandTimeout": 1000000,
     "env": {
-        "user": "standard_user",
-        "pass": "secret_sauce"
+        "projectId": "o4aa4c"
       }
   }
