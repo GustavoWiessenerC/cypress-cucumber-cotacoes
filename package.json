@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "npx cypress open --env configFile=app-qa",
-    "cypress:run": "npx cypress run --env configFile=app-qa"
+    "cypress:open": "npx cypress open  --env configFile=app-qa",
+    "cypress:run": "npx cypress run --record --env configFile=app-qa"
   },
   "keywords": [],
   "author": "",
