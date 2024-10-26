@@ -1,0 +1,15 @@
+
+{
+    "firtName": "Gustavo",
+    "lastName": "Henrique",
+    "dateOfBirth": "11/03/1991",
+    "gender": "Male",
+    "andress": "Rua Rio Cachoeira",
+    "country": "Brazil",
+    "zipCode": 83320260,
+    "city": "Pinhais",
+    "occupation": "Employee",
+    "hobbie": "Speeding",
+    "website": "https://github.com/GustavoWiessenerC",
+    "picture": "picture.png"
+}

@@ -1,0 +1,15 @@
+{
+  "make": "BMW",
+  "model": "Scooter",
+  "cylinderCapacity": 100,
+  "enginePerformance": 300,
+  "dateOfManufacture": "01/01/2023",
+  "numberOfSeats": 3,
+  "numberOfSeatsMotorcycle": 2,
+  "fueltype": "Gas",
+  "payloadKg": 100,
+  "totalWeight": 25000,
+  "listPrice": 100000,
+  "numberLicense": 192882123,
+  "anualMileage": 12123
+}
