@@ -1,7 +1,5 @@
 {
     "baseUrl": "https://sampleapp.tricentis.com/101",
     "defaultCommandTimeout": 1000000,
-    "env": {
-        "projectId": "o4aa4c"
-      }
+    "projectId": "o4aa4c"
   }
